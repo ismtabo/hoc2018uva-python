@@ -1,5 +1,6 @@
 graphviz
 jupyter
 matplotlib
+networkx
 numba
 numpy
