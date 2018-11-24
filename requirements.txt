@@ -1,0 +1,5 @@
+graphviz
+jupyter
+matplotlib
+numba
+numpy
