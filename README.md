@@ -7,6 +7,8 @@ The notes have been updated for Python 3 and amended for use in Monash Universit
 
 # Python-Lectures
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismtabo/hoc2018uva-python/master?filepath=Intro-to-Python%2F00.ipynb)
+
 ## Introduction
 
 Python is a modern, robust, high level programming language. It is very easy to pick up even if you are completely new to programming. 
