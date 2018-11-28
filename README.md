@@ -7,7 +7,7 @@ The notes have been updated for Python 3 and amended for use in Monash Universit
 
 # Python-Lectures
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismtabo/hoc2018uva-python/master?filepath=Intro-to-Python%2F00.ipynb) [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/<user-name>/<repository-name>)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismtabo/hoc2018uva-python/master?filepath=Intro-to-Python%2F00.ipynb) [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/ismtabo/libraries/hoc2018uva-python)
 
 ## Introduction
 
